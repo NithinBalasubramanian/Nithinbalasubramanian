@@ -1,4 +1,4 @@
-### Hi I'm Nithin , Expertised in Full stack development
+# Hi I'm Nithin , Expertised in Full stack development
 
 
 ## 🌐 Socials:
